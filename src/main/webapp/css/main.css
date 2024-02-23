@@ -1,0 +1,11 @@
+.noti-container{
+	height: 70vh;
+	text-align: center;
+}
+.card-price{
+	font-weight: bold;
+}
+.signup-btn{
+	white-space: nowrap;
+    margin-left: 8px;
+}
